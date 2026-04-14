@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NPTEL Industrial Engineering Quiz</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Principles of Industrial Engineering</h1>
+      <p class="muted">Week-wise and full random test practice</p>
+
+      <section id="setupCard" class="card">
+        <h2>Start Test</h2>
+        <label>
+          Mode
+          <select id="modeSelect">
+            <option value="week">Week-wise Test</option>
+            <option value="random">Random Test (All 120)</option>
+          </select>
+        </label>
+
+        <label id="weekWrap">
+          Week
+          <select id="weekSelect"></select>
+        </label>
+
+        <label class="inline">
+          <input type="checkbox" id="shuffleOptions" checked />
+          Shuffle options each attempt
+        </label>
+
+        <button id="startBtn">Start Test</button>
+      </section>
+
+      <section id="quizCard" class="card hidden">
+        <h2 id="quizTitle"></h2>
+        <p class="muted">No negative marking. 1 mark for correct, 0 for wrong.</p>
+        <form id="quizForm"></form>
+        <button id="submitBtn" class="submit">Submit Test</button>
+      </section>
+
+      <section id="resultCard" class="card hidden">
+        <h2>Results</h2>
+        <p id="scoreText" class="score"></p>
+        <div id="resultList"></div>
+        <div class="actions">
+          <button id="retakeBtn">Retake (New Shuffle)</button>
+          <button id="resetBtn">Choose New Test</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+  </html>
