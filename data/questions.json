@@ -1769,11 +1769,11 @@
       "Using D4 × R for UCL and D3 × R for LCL",
       "Using the process mean ± 3σ where σ is standard deviation"
     ],
-    "answer_index": 0,
-    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "answer_index": 2,
+    "explanation": "Set to your selected Week 12 option from provided screenshot.",
     "source": "Week12 screenshot",
-    "answer_source": "concept_verified_manual",
-    "answer_confidence": "medium"
+    "answer_source": "provisional_user_selected",
+    "answer_confidence": "provisional"
   },
   {
     "id": "W12Q02",
@@ -1833,11 +1833,11 @@
       "(i)-(a), (ii)-(d), (iii)-(b), (iv)-(c)",
       "(i)-(d), (ii)-(b), (iii)-(a), (iv)-(c)"
     ],
-    "answer_index": 2,
-    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "answer_index": 0,
+    "explanation": "Set to your selected Week 12 option from provided screenshot.",
     "source": "Week12 screenshot",
-    "answer_source": "concept_verified_manual",
-    "answer_confidence": "medium"
+    "answer_source": "provisional_user_selected",
+    "answer_confidence": "provisional"
   },
   {
     "id": "W12Q06",
