@@ -1,0 +1,16 @@
+[
+  {
+    "id": "W01Q01",
+    "week": 1,
+    "question": "Sample question text",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer_index": 0,
+    "explanation": "Optional explanation shown after submit.",
+    "source": "week1_assignment.pdf"
+  }
+]

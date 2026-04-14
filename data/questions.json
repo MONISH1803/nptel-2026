@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "W01Q01",
+    "week": 1,
+    "question": "The three broad types of industries classified based on the nature of production are:",
+    "options": [
+      "Manufacturing, marketing, and finance industries",
+      "Retail, wholesale, and import-export industries",
+      "Primary, secondary, tertiary",
+      "Agricultural, technological, and educational industries"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W01Q02",
+    "week": 1,
+    "question": "The thinker who emphasized the scientific manufacturing approach through division of labor to improve productivity is:",
+    "options": [
+      "H. L. Gantt",
+      "J. Watt",
+      "A. Smith",
+      "F. Taylor"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W01Q03",
+    "week": 1,
+    "question": "Gantt chart developed by H. L. Gantt is",
+    "options": [
+      "A bar chart showing worker bonus payments over time.",
+      "A detailed worker motions for improved efficiency.",
+      "A time-activity chart for scheduling and utilization.",
+      "A collection of random work events to assess utilization."
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W01Q04",
+    "week": 1,
+    "question": "The Therbligs developed by Frank and L. Gilbreth for micro-motion study is used for",
+    "options": [
+      "Scheduling machine use and worker shifts effectively.",
+      "Designing bonus systems based on worker output.",
+      "Breaking jobs into elements to remove inefficiencies.",
+      "Randomly sampling work for setting performance standards."
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W01Q05",
+    "week": 1,
+    "question": "A ________ layout arranges machines in a sequence of operations for the continuous and uniform production of similar units.",
+    "options": [
+      "Batch",
+      "Process",
+      "Job shop",
+      "Product"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W01Q06",
+    "week": 1,
+    "question": "In production planning and control, the purpose of short-term scheduling is",
+    "options": [
+      "To decide long-term business strategy unrelated to daily production 1 | P a g e",
+      "To assign machines and manpower for daily production",
+      "To schedule marketing campaigns and sales events",
+      "To plan product design changes and research activities"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W01Q07",
+    "week": 1,
+    "question": "Value analysis in the production process focuses on",
+    "options": [
+      "Challenging each step to reduce cost while maintaining quality.",
+      "Reducing inventory stock to lessen storage costs",
+      "Improving the skills of labor through training sessions",
+      "Increasing the production volume to meet higher demand"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W01Q08",
+    "week": 1,
+    "question": "Operations research contributes to enhance industrial production",
+    "options": [
+      "By physically arranging machines to reduce movement",
+      "By mathematically optimizing use of available resources",
+      "By organizing break schedules to reduce fatigue",
+      "By designing financial incentives to motivate workers"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W01Q09",
+    "week": 1,
+    "question": "'Function' in an organization stands for",
+    "options": [
+      "A single person handling multiple jobs",
+      "A group of unrelated departments",
+      "A list of company goals",
+      "A group doing similar tasks"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W01Q10",
+    "week": 1,
+    "question": "Characteristics of a tall organizational structure is",
+    "options": [
+      "Many layers and narrow span",
+      "One-layer flat management",
+      "Few layers with wide span of control",
+      "No hierarchy or manager"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 1.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q01",
+    "week": 2,
+    "question": "The primary objective of motion economy in industrial operations is to:",
+    "options": [
+      "Increase the number of works shifts to raise output",
+      "Improve financial incentives for workers",
+      "Reduce unnecessary motions of workers, materials, and equipment",
+      "Maximize machine operating speed"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q02",
+    "week": 2,
+    "question": "System analysis helps improve industrial processes by:",
+    "options": [
+      "Controlling inventory levels in storage",
+      "Measuring worker time for individual tasks only",
+      "Designing financial incentive schemes for employees",
+      "Studying all system components and their interactions to identify"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q03",
+    "week": 2,
+    "question": "The organizational structure is characterized by many vertical layers and single reporting",
+    "options": [
+      "Matrix structure",
+      "Line structure",
+      "Functional structure",
+      "Team-based structure"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q04",
+    "week": 2,
+    "question": "Structure that combines the features of line and functional organizations is",
+    "options": [
+      "Network structure",
+      "Divisional structure",
+      "Matrix structure",
+      "Modular structure"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q05",
+    "week": 2,
+    "question": "The impact of the product life cycle on manufacturing and marketing strategies is:",
+    "options": [
+      "The product life cycle results in fixed pricing across all stages of the product",
+      "The product life cycle mainly influences factory location and packaging decisions",
+      "The product life cycle affects only the advertising budget for the product",
+      "The product life cycle guides decisions on manufacturing methods,"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q06",
+    "week": 2,
+    "question": "In the process focused organizational structure, _____ primarily supervises specialized functions like machining and welding.",
+    "options": [
+      "Product engineers",
+      "General workers",
+      "Top-level managers",
+      "Specialized supervisors"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q07",
+    "week": 2,
+    "question": "The manufacturing strategy suitable for products with low volumes and high variety is:",
+    "options": [
+      "Mass production",
+      "Just-in-time production",
+      "Make-to-order manufacturing",
+      "Make-for-stock manufacturing"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q08",
+    "week": 2,
+    "question": "The purpose of benchmarking of competitors in product life cycle management is:",
+    "options": [
+      "To identify gaps in cost, quality, and design for product improvement",
+      "To perform benchmarking only after a product is discontinued",
+      "To reduce product features solely to save costs",
+      "To copy competitor marketing slogans directly"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q09",
+    "week": 2,
+    "question": "The drawback of dual reporting in a matrix structure is",
+    "options": [
+      "Clear division of authority and simpler communication.",
+      "No conflict between project and functional managers.",
+      "Easier performance evaluation due to single reporting line.",
+      "Ambiguous roles and responsibilities causing worker confusion."
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W02Q10",
+    "week": 2,
+    "question": "Team-based organizational structures operate with",
+    "options": [
+      "Individuals reporting only to one functional manager",
+      "Independent teams making decentralized decisions",
+      "Close supervision under centralized control",
+      "Decisions made strictly at top management levels"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 2.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q01",
+    "week": 3,
+    "question": "Two main functions of departmentalization in an organizational structure are",
+    "options": [
+      "Developing marketing strategies, and planning production",
+      "Defining company vision, and hiring staff",
+      "Establishing chain of command, and setting measures to assess output and effectiveness",
+      "Setting organizational goals, and evaluating customers"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q02",
+    "week": 3,
+    "question": "As organizations grow and become older, the level of formalization is",
+    "options": [
+      "Increased",
+      "Decreased",
+      "Fluctuate randomly",
+      "Remain constant"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q03",
+    "week": 3,
+    "question": "The correct reason for a company to locate a plant near a city is",
+    "options": [
+      "Land and taxes are cheapest in city compared to village",
+      "Availability of skilled labor, utilities, buildings, and transport",
+      "Lower pollution impact in cities than in villages",
+      "Raw materials available only within city areas"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q04",
+    "week": 3,
+    "question": "A key advantage of placing a plant in the suburbs rather than in the city is",
+    "options": [
+      "Higher insurance liabilities and heavier local taxes",
+      "Easier expansion, availability of semi-skilled labor, and lower taxes",
+      "Increased transportation costs for shipping final products to market",
+      "Ease of establishing research and development facilities"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q05",
+    "week": 3,
+    "question": "For a plant whose product demand is centralized, the plant location should be",
+    "options": [
+      "Close to the centralized market",
+      "Closed to raw material source",
+      "Far from the market to reduce costs and risks",
+      "Anywhere"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q06",
+    "week": 3,
+    "question": "The factor(s) related to power supply that are considered when selecting a new plant site is/are",
+    "options": [
+      "Only availability of power supply",
+      "Only reliability of power supply",
+      "Only cost of power",
+      "All of these"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q07",
+    "week": 3,
+    "question": "The method involves assigning ratings to both the factors and potential sites for plant location is",
+    "options": [
+      "Point rating method",
+      "Centre of gravity method",
+      "Factor rating method",
+      "Break even analysis"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q08",
+    "week": 3,
+    "question": "In the point-rating method, the way to assign ratings to factors and sites is",
+    "options": [
+      "Max points are preassigned to factors; sites receive points up to that maximum",
+      "Factors and sites are rated by qualitative method",
+      "Factor importance is derived after rating all sites equally",
+      "All sites are assigned maximum point value regardless of importance"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q09",
+    "week": 3,
+    "question": "A component of total cost with regard to Break Even Analysis remains constant regardless of the number of units produced is",
+    "options": [
+      "Fixed cost",
+      "Power cost",
+      "Transportation cost",
+      "Raw materials cost"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W03Q10",
+    "week": 3,
+    "question": "In the breakeven analysis, the expression used for determining the number of units to be manufactured for no profit/no loss is",
+    "options": [
+      "Total cost × (Selling price each unit - Variable cost each unit)",
+      "Variable cost / (Fixed cost - Selling price each unit)",
+      "Selling price / (Variable cost each unit + Fixed cost)",
+      "Fixed cost / (Selling price each unit- Variable cost each unit)"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 3.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q01",
+    "week": 4,
+    "question": "The main purpose of identifying coordinates for sites and distribution points in the Load Distance method is",
+    "options": [
+      "Finding the longest straight-line distance",
+      "Estimating travel time",
+      "Measuring diagonal distance for direct travel between sites",
+      "Calculating total travel distance using rectilinear movement"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q02",
+    "week": 4,
+    "question": "The basis on which the Load Distance method helps select the best warehouse site is",
+    "options": [
+      "Minimum value of load × travel distance to distribution points",
+      "Lowest initial investment cost",
+      "Closest to the highest load volume distribution point",
+      "Closest to the lowest load volume distribution point"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q03",
+    "week": 4,
+    "question": "The situations in which a company needs to review and alter its existing plant layout is/are",
+    "options": [
+      "CEO of the company is resigned",
+      "New products are launched",
+      "Chairman of the company is resigned",
+      "All of these"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q04",
+    "week": 4,
+    "question": "The plant layout most suitable for producing a variety of products in limited volumes is",
+    "options": [
+      "Product layout",
+      "Fixed layout",
+      "Process layout",
+      "Cellular layout"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q05",
+    "week": 4,
+    "question": "A key limitation of the process layout is",
+    "options": [
+      "High in-process inventory and congestion",
+      "Rigidity in product design",
+      "Requirement of highly automated machines for material handling",
+      "All of these"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q06",
+    "week": 4,
+    "question": "A key disadvantage of the product layout in case of a machine breakdown is",
+    "options": [
+      "Only the failed machine stops operating",
+      "The whole production line stops",
+      "Production automatically shift to batch mode",
+      "All of these"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q07",
+    "week": 4,
+    "question": "A fixed layout used in aircraft manufacturing is characterized by",
+    "options": [
+      "Machines and workers grouped by function and products routed between them",
+      "A workpiece remaining stationary while workers, machines, and materials move to it",
+      "Products moving through departments according to sequential process requirements",
+      "Machines arranged in a sequence for continuous production of small parts"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q08",
+    "week": 4,
+    "question": "The objective of forming cells in a cellular or group technology layout is to",
+    "options": [
+      "Group different set of machines that perform certain types of job independently",
+      "Arranging machines randomly to increase the variety of products produced simultaneously",
+      "Organize workers in batches for faster assembly line production",
+      "Grouping of machines based on their function, regardless of product type or operation"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q09",
+    "week": 4,
+    "question": "Cellular layout is most suitable for",
+    "options": [
+      "Very high production volume and large product variety",
+      "Very low production volume and large product variety",
+      "Moderate production volume and moderate product variety",
+      "Very high production volume and very limited product variety"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W04Q10",
+    "week": 4,
+    "question": "In the plant layouts, 'part families' in group technology are",
+    "options": [
+      "Group of workers according to their specialized skills for specific tasks",
+      "Classification of parts based on demand",
+      "Group of products with similar features/operations",
+      "Assembling all machines for different operations into single large cell"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 4.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q01",
+    "week": 5,
+    "question": "In a process layout, machines are grouped based on",
+    "options": [
+      "Material flow sequence",
+      "The types of operations",
+      "The manufacturing process steps",
+      "Size of machines"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q02",
+    "week": 5,
+    "question": "In the flow matrix approach, a higher number rated between two work centres indicates",
+    "options": [
+      "More frequent movement between those centres",
+      "Longer distance between those centres",
+      "These centres are irrelevant",
+      "The operating cost of machines in those centres"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q03",
+    "week": 5,
+    "question": "The qualitative method used for designing process layouts is",
+    "options": [
+      "Placement of the machine method",
+      "Distance matrices model",
+      "Proximity analysis",
+      "Layout efficiency method"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q04",
+    "week": 5,
+    "question": "The criterion used to evaluate the effectiveness of a process layout is",
+    "options": [
+      "By counting the number of machines before and after changes",
+      "By measuring the floor space usage before and after changes",
+      "By comparing total movement cost before and after changes",
+      "By evaluating aesthetics appeal of the layout before and after changes"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q05",
+    "week": 5,
+    "question": "In a product layout, the purpose of line balancing is",
+    "options": [
+      "To allow some stations to have longer processing time than others",
+      "To reduce the number of stations without regard to task duration",
+      "To ensure each station perform tasks approximately an equal time",
+      "To group stations based on the type of operation performed"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q06",
+    "week": 5,
+    "question": "The requirement of minimum number of workstations in a product layout for line balancing is determined by",
+    "options": [
+      "Total idle time at stations divided by total daily working hours",
+      "Number of available operators divided by the number of required operators",
+      "Total time required for all operations divided by cycle time",
+      "Total operational time divided by time of single operation"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q07",
+    "week": 5,
+    "question": "The importance of proper ventilation in a manufacturing plant is",
+    "options": [
+      "To increase the structural strength of the building",
+      "To improve the visual appearance of plant",
+      "To reduce material handling costs",
+      "To maintain healthy working conditions and improve worker productivity"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q08",
+    "week": 5,
+    "question": "The correct condition for which a single-storey plant building is most suitable is",
+    "options": [
+      "When land is expensive and requiring multiple floors for light products",
+      "When producing only a small, light products with no need of expansion",
+      "When ventilation and worker comfort are not important",
+      "When handling heavy or bulky materials"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q09",
+    "week": 5,
+    "question": "A key characteristic of a high bay building is",
+    "options": [
+      "A low roofed structure used for hotels, schools, or shopping malls",
+      "A multi-storey building used for manufacturing small, light products",
+      "A special purpose building designed for manufacturing small, light products",
+      "A single storey structure with roof height greater than 10 meters to provide large"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W05Q10",
+    "week": 5,
+    "question": "The advantage of using multi storey building is",
+    "options": [
+      "Gravity flow, allowing materials to move easily from higher floors to lower floors",
+      "The availability of a long narrow space between rows for efficient horizontal movement of materials",
+      "Improved natural ventilation to prevent machine overheating",
+      "All of these"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 5.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q01",
+    "week": 6,
+    "question": "The main purpose of material handling in the manufacturing process is",
+    "options": [
+      "Shaping and sizing raw materials during manufacturing",
+      "Controlling the quality of finished products before delivery",
+      "Designing the layout of machines and workstations",
+      "Moving materials efficiently between production stages"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q02",
+    "week": 6,
+    "question": "Prior planning activities carried out before production begins is/are",
+    "options": [
+      "Material planning",
+      "Demand forecasting",
+      "Designing the product",
+      "All of these"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q03",
+    "week": 6,
+    "question": "The important role of forecasting in production planning is",
+    "options": [
+      "Identification of the variety of products to be produced",
+      "Identification of the machine that can be stopped during production",
+      "Identification of future demand to organize manpower, materials and other resources",
+      "All of these"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q04",
+    "week": 6,
+    "question": "The three main stages involved in Production Planning and Control are",
+    "options": [
+      "Prior planning, active planning, and control phase",
+      "Design phase, production planning, and delivery phase",
+      "Forecasting, scheduling, and dispatching stages",
+      "Order processing, production, and quality control"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q05",
+    "week": 6,
+    "question": "The strategy used in aggregate planning to manage demand fluctuations is/are",
+    "options": [
+      "Adjusting workforce size, work hours and inventory levels",
+      "Delaying customer orders to balance production load",
+      "Changing product designs to shorten manufacturing time",
+      "Increasing product prices during high-demand periods"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q06",
+    "week": 6,
+    "question": "The actions that belong to the control phase in Production Planning and Control are Indian Institute of Technology Roorkee Course: Principles of Industrial Engineering Instructor: Prof. D. K. Dwivedi 2 | P a g e",
+    "options": [
+      "Designing new products and developing manufacturing processes",
+      "Creating process flows and routing plans",
+      "Identifying deviations in production progress, and taking corrective actions",
+      "Issuing work orders and dispatching materials to begin production"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q07",
+    "week": 6,
+    "question": "The main goal of capacity planning in production systems is to",
+    "options": [
+      "Maximize the variety of products produced",
+      "Focus only on reducing production costs",
+      "Design and develop infrastructure to meets demand for quantity and quality effectively",
+      "Minimize the input materials required for production"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q08",
+    "week": 6,
+    "question": "Design capacity of a plant refers to",
+    "options": [
+      "The estimated sales forecast for a product",
+      "The lowest possible output when machine usage is minimal",
+      "The actual output achieved after accounting for inefficiencies",
+      "The maximum possible output from machines and manpower"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q09",
+    "week": 6,
+    "question": "The short-term conditions that reduce actual capacity below the system capacity is",
+    "options": [
+      "Ineffective product layout design",
+      "Machines breakdowns",
+      "Adequate inventory supplies",
+      "Long product life cycles"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W06Q10",
+    "week": 6,
+    "question": "In capacity planning, phasing-in process refers to",
+    "options": [
+      "Reducing workforce to lower costs",
+      "Allocating funds and training for new technologies",
+      "Completely abandoning outdated machinery immediately",
+      "Allocating funds and training for old technologies"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 6.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q01",
+    "week": 7,
+    "question": "The objective of Material Requirement Planning in production is",
+    "options": [
+      "To identify the quantity and timing of demand-dependent items",
+      "To reduce the cost of machinery used in production lines",
+      "To schedule employee shifts and daily work hours",
+      "To forecast future product designs for new markets"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q02",
+    "week": 7,
+    "question": "The essential inputs needed for effective Material Requirement Planning (MRP) are",
+    "options": [
+      "Master production schedule, inventory status, and bill of material",
+      "Sales forecasts, equipment maintenance logs, and product prices",
+      "Employee work schedules, supplier delivery times, and market trends",
+      "Quality control reports, customer feedback, and shipping schedules"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q03",
+    "week": 7,
+    "question": "The document used during production that remains with the job and records material usage and work quality is",
+    "options": [
+      "Material checklist",
+      "Inventory checklist",
+      "Route card",
+      "All of these"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q04",
+    "week": 7,
+    "question": "The purpose of scheduling in production planning and control is",
+    "options": [
+      "To determine the total cost of producing a product",
+      "To select the best materials required for manufacturing",
+      "To specify when and where to perform each operation",
+      "To assign workers to different shifts for labor management"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q05",
+    "week": 7,
+    "question": "In production planning and control, the term ‘loading’ refers to",
+    "options": [
+      "Estimate future demand for production",
+      "Calculate the total production time required for all jobs",
+      "Assign jobs to machines",
+      "Determine job start and finish time for jobs"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q06",
+    "week": 7,
+    "question": "The priority sequencing rule that gives highest priority to the job needing the smallest processing time is",
+    "options": [
+      "First Come First Served",
+      "Shortest Processing Time",
+      "Earliest Due Date",
+      "Least Slack"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q07",
+    "week": 7,
+    "question": "The term 'flow time' in production scheduling refer to",
+    "options": [
+      "The time required to process a job on a machine",
+      "The duration between job’s arrival and its due date",
+      "The time required to prepare for the next job in the sequence",
+      "The total time a job spends within the production system"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q08",
+    "week": 7,
+    "question": "A Critical Ratio value greater than 1 in job scheduling indicates",
+    "options": [
+      "The job is behind schedule and will finish late",
+      "The job has no available processing time left",
+      "The job is expected to finish exactly on its due date",
+      "The job is ahead of schedule and will finish before its due date"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q09",
+    "week": 7,
+    "question": "In scheduling, the main difference between local and global priority sequencing rules is",
+    "options": [
+      "Global rules ignore processing times, while local rules consider only due date",
+      "Global rules prioritize only due date, while local rules prioritize processing time",
+      "Local rules apply to all workstations in the system, while global rules focus on a single station",
+      "Local rules apply only to the current workstation, while global rules apply to all"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W07Q10",
+    "week": 7,
+    "question": "The formula used to determine the slackness for a job in priority job sequencing is",
+    "options": [
+      "Completion time minus start time",
+      "Processing time minus due date",
+      "Processing time plus due date",
+      "Due date minus processing time"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 7.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q01",
+    "week": 8,
+    "question": "The purpose of maintaining buffer stock inventory in a production company is",
+    "options": [
+      "Reducing capital investment",
+      "Avoiding the storage of any materials",
+      "Increasing production costs",
+      "Handling fluctuations in demand and lead time"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q02",
+    "week": 8,
+    "question": "In the context of inventory investment, the Marginal Efficiency of Capital curve represents",
+    "options": [
+      "The impact of labor costs on overall production efficiency and quality",
+      "The variable cost related to raw materials",
+      "The fixed cost related to store raw materials in inventory",
+      "The relationship between capital invested in inventory and the profitability earned"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q03",
+    "week": 8,
+    "question": "The basis of classifying inventory in ABC analysis is",
+    "options": [
+      "The fastest moving item",
+      "Only the volume of item",
+      "Only the value of item",
+      "A combination of item value and item volume"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q04",
+    "week": 8,
+    "question": "The difference between the periodic inventory model and the simple QR model is",
+    "options": [
+      "Inventory is replenished once when it reaches zero level rather than at regular intervals",
+      "Inventory is checked and replenished at regular intervals rather than only when it reaches zero level",
+      "Inventory is replenished only at zero level rather than placing randomly",
+      "Inventory is replenished randomly without checking inventory levels rather than inventory"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q05",
+    "week": 8,
+    "question": "A key limitation of the QR inventory model is",
+    "options": [
+      "The reorder point is not fixed",
+      "The consumption rate changes frequently",
+      "The model assumes a constant usage rate and instantaneous delivery",
+      "The usage rate varies continuously while delivery is instantaneous"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q06",
+    "week": 8,
+    "question": "The cost(s) considered in inventory optimization is/are",
+    "options": [
+      "Stock out cost",
+      "Inventory carrying cost",
+      "Procurement cost",
+      "All of these"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q07",
+    "week": 8,
+    "question": "The assumptions taken in the Economic Order Quantity formula Q* = √ 2𝑆𝐷 𝐼𝐶 are I. Constant annual demand II. Fixed item cost III. No stock out Here, S is ordering cost, D is annual demand, and IC is holding cost",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q08",
+    "week": 8,
+    "question": "The effect of increasing the order quantity (Q) in the Economic Order Quantity model on carrying and procurement costs is",
+    "options": [
+      "Carrying cost increases and procurement cost decreases",
+      "Both carrying and procurement costs increases exponentially",
+      "Carrying cost decreases as procurement cost increases linearly",
+      "Procurement cost remains fixed while carrying cost reduces linearly"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q09",
+    "week": 8,
+    "question": "In the gradual replenishment model, the correct condition that must hold between production rate and consumption rate is",
+    "options": [
+      "Both rates production rate and consumption rate must be zero during replenishment",
+      "Consumption rate must exceed production rate",
+      "Production rate must be equal to consumption rate",
+      "Production rate must be greater than consumption rate to avoid stock outs"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W08Q10",
+    "week": 8,
+    "question": "The effect of quantity discounts on economic order quantity (EOQ) and total cost in inventory management is 3 | P a g e",
+    "options": [
+      "Price discounts lower item cost, changing EOQ and total cost",
+      "Discounts only affect procurement cost while no change in total cost",
+      "Quantity discounts have no effect on EOQ",
+      "Price discounts decrease item cost while no change in EOQ and total costs"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 8.pdf",
+    "answer_source": "explicit_correct_answer_line",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q01",
+    "week": 9,
+    "question": "The major limitation of a Gantt chart is:",
+    "options": [
+      "It does not show activity precedence or time variability",
+      "It cannot display activities across time periods",
+      "It shows activities but not their durations",
+      "It requires too many resources to prepare and update"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q02",
+    "week": 9,
+    "question": "The techniques used as network-modelling in project management are:",
+    "options": [
+      "Critical Path Method and PERT",
+      "Lean Manufacturing and Six Sigma",
+      "Gantt Chart and Work Breakdown Structure",
+      "Brainstorming and SWOT analysis."
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q03",
+    "week": 9,
+    "question": "Advantages of network modelling in project management is",
+    "options": [
+      "Increases project complexity and delays timeline",
+      "Focuses only on financial aspects ignoring scheduling",
+      "Eliminates the need for resource planning entirely",
+      "Shows activity relationships, reduces project duration and cost"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q04",
+    "week": 9,
+    "question": "The type of project where the CPM technique mainly applied is:",
+    "options": [
+      "R&D projects with uncertain and variable timelines",
+      "Small projects with well-defined activity durations",
+      "Projects aimed only at reducing environmental impact",
+      "Large government projects with many stakeholders"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q05",
+    "week": 9,
+    "question": "The 'critical path' in a project network is determined as:",
+    "options": [
+      "The path with the longest project completion time",
+      "The route that starts first in the project timeline",
+      "The path with the least number of activities",
+      "The path that uses the fewest project resources"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q06",
+    "week": 9,
+    "question": "The role of 'slack time' in network analysis is:",
+    "options": [
+      "To define the earliest start time of each activity",
+      "To show how long an activity can be delayed",
+      "To indicate total time spent on critical activities 1 | P a g e",
+      "To represent unused resources in the project"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q07",
+    "week": 9,
+    "question": "The symbol in network diagrams used to indicate the start or end of an activity is:",
+    "options": [
+      "A rectangular box",
+      "A circular node",
+      "A solid arrow",
+      "A dotted line"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q08",
+    "week": 9,
+    "question": "The critical path in a PERT network is defined as:",
+    "options": [
+      "The shortest path connecting starts to finish nodes",
+      "Activities on the path with zero slack time",
+      "The sequence with the maximum total slack time allowed",
+      "Activities with the highest resource requirements"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q09",
+    "week": 9,
+    "question": "The variance of an activity’s completion time in PERT is calculated as: 𝑡𝑜 + 𝑡𝑝",
+    "options": [
+      "2 𝟐 𝒕𝒑− 𝒕𝒐",
+      "( ) 𝟔 𝑡𝑝− 𝑡𝑚",
+      "√( ) 3 𝑡𝑚− 𝑡𝑜",
+      "("
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W09Q10",
+    "week": 9,
+    "question": "When project activities are crashed to shorten duration, costs usually:",
+    "options": [
+      "First decreases than increases",
+      "Decreases",
+      "Increases",
+      "Remain unaffected"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 9.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q01",
+    "week": 10,
+    "question": "Slack of activity in PERT is calculated as:",
+    "options": [
+      "Earliest start – Earliest finish",
+      "Duration × (Earliest finish − Earliest start)",
+      "Latest start – Earliest start",
+      "Earliest finish + Latest start"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q02",
+    "week": 10,
+    "question": "In the Delphi method, the role of coordinator is to:",
+    "options": [
+      "Solely decide the final forecast with group input.",
+      "Conduct consumer surveys without expert feedback.",
+      "Collect sales data without interacting with experts.",
+      "Gather expert opinions and guides iterations toward consensus."
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q03",
+    "week": 10,
+    "question": "The quantitative forecasting method that uses the most recent actual demand as the next period’s forecast is:",
+    "options": [
+      "Moving average method",
+      "Weighted Moving Average",
+      "Exponential smoothing",
+      "Naive method"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q04",
+    "week": 10,
+    "question": "The simple moving average forecasting method:",
+    "options": [
+      "Gives more weight to recent demand values",
+      "Assigns equal weight to all selected past periods",
+      "Ignores older data completely",
+      "Requires trend and seasonal adjustments"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q05",
+    "week": 10,
+    "question": "____________ is the best forecasting method when past demand data is limited.",
+    "options": [
+      "Exponential smoothing",
+      "Simple moving average",
+      "Weighted Moving Average",
+      "Naive method"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q06",
+    "week": 10,
+    "question": "In weighted moving average, weights are typically assigned to past demand data as:",
+    "options": [
+      "Higher weights are given to recent periods than older ones.",
+      "Weights increase progressively with age, favoring older demand data.",
+      "Weights are randomly assigned without considering demand period. 1 | P a g e",
+      "Equal weights are given to each period regardless of recency."
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q07",
+    "week": 10,
+    "question": "The most suitable forecasting method when there is no past demand data available is",
+    "options": [
+      "Moving average techniques",
+      "Quantitative methods",
+      "Qualitative methods",
+      "Time series analysis"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q08",
+    "week": 10,
+    "question": "The type of demand pattern that shows no trend and fluctuates around a constant level is",
+    "options": [
+      "Constant demand pattern",
+      "Cyclical demand pattern",
+      "Erratic demand pattern",
+      "Increasing demand pattern"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q09",
+    "week": 10,
+    "question": "The main distinction between qualitative and quantitative forecasting methods is:",
+    "options": [
+      "Qualitative methods use past data, while quantitative methods use expert judgments and intuition.",
+      "Quantitative methods rely on current market surveys, while qualitative methods use numerical past demand data.",
+      "Qualitative methods use mathematical models, while quantitative methods depend on group opinions and intuition.",
+      "Quantitative methods use past demand data, while qualitative methods"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W10Q10",
+    "week": 10,
+    "question": "The total project duration in critical path method is determined by:",
+    "options": [
+      "The shortest path in the activity network",
+      "The number of activities in the project",
+      "The average duration of all paths",
+      "The path with the maximum total time"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 10.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q01",
+    "week": 11,
+    "question": "A seasonality index value greater than 1 indicates:",
+    "options": [
+      "The demand for that season equals the average demand for all seasons.",
+      "The forecasted demand for the season is inaccurate or unreliable.",
+      "The demand in that season is less than the overall seasonal average.",
+      "The demand in that season is higher than the overall average demand."
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q02",
+    "week": 11,
+    "question": "The difference between actual and forecasted demand, disregarding the (+ /-) sign, is defined as",
+    "options": [
+      "Mean Absolute Error",
+      "Mean Squared Error",
+      "Mean Absolute Percentage Error",
+      "Forecast Error"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q03",
+    "week": 11,
+    "question": "The Mean Squared Error is calculated by",
+    "options": [
+      "Summing the absolute errors without squaring them.",
+      "Averaging the percentage errors between actual and forecast values.",
+      "Averaging the squared forecast errors over all periods.",
+      "Taking the square root of the average forecast errors."
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q04",
+    "week": 11,
+    "question": "A low tracking signal value indicates that a forecasting approach:",
+    "options": [
+      "Has large errors consistently over time",
+      "Stays close to actual demand",
+      "Has a bias error that needs adjustment",
+      "Should be completely replaced"
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q05",
+    "week": 11,
+    "question": "A correlation coefficient, r = -1 interprets",
+    "options": [
+      "A lack of any trend between variables x and y.",
+      "A perfect negative relationship; y decreases as x increases.",
+      "A positive linear association where y increases with x.",
+      "A random, unpredictable relationship between x and y."
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q06",
+    "week": 11,
+    "question": "A correlation coefficient (r) equal to 1 indicates that the relationship between the dependent and independent variables is",
+    "options": [
+      "A perfect negative linear relationship where y decreases as x increases.",
+      "A perfect positive linear relationship; y increases as x increases.",
+      "Values of y stay constant regardless of change in x. 1 | P a g e",
+      "No relationship between x and y; variables are independent."
+    ],
+    "answer_index": 1,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q07",
+    "week": 11,
+    "question": "The purpose of a fish bone diagram in quality control is:",
+    "options": [
+      "To track only financial loss without quality focus",
+      "To randomly assign blame without cause analysis",
+      "To analyze causes and their effects of defects",
+      "To list all suppliers without analyzing causes"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q08",
+    "week": 11,
+    "question": "A Pareto diagram assists in quality control efforts by:",
+    "options": [
+      "Randomly selecting factors without using frequency data",
+      "Ignoring major problems and focusing on minor details",
+      "Prioritizing the most frequent factors that contribute to the majority of problems",
+      "Treating all factors as equally important regardless of impact"
+    ],
+    "answer_index": 2,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q09",
+    "week": 11,
+    "question": "Assignable causes of variation are:",
+    "options": [
+      "Specific, identifiable problems in processes",
+      "Minor, random fluctuations in materials",
+      "Always due to normal machine vibrations",
+      "Not controlled by management"
+    ],
+    "answer_index": 0,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W11Q10",
+    "week": 11,
+    "question": "The tool that brings together stakeholders to exchange ideas for improving quality",
+    "options": [
+      "Fishbone diagram",
+      "Control charts",
+      "Pareto diagram",
+      "Brainstorming"
+    ],
+    "answer_index": 3,
+    "explanation": "",
+    "source": "Assignment 11.pdf",
+    "answer_source": "yellow_highlight_detected",
+    "answer_confidence": "high"
+  },
+  {
+    "id": "W12Q01",
+    "week": 12,
+    "question": "Control limits for an R-chart are determined by:",
+    "options": [
+      "Using Q4 × R for UCL and D3 × R for LCL",
+      "Subtracting the A2 coefficient from the mean range",
+      "Using D4 × R for UCL and D3 × R for LCL",
+      "Using the process mean ± 3σ where σ is standard deviation"
+    ],
+    "answer_index": 0,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  },
+  {
+    "id": "W12Q02",
+    "week": 12,
+    "question": "_____ is not considered a work measurement technique in an organization.",
+    "options": [
+      "Work sampling",
+      "Standard data method",
+      "Predetermined time motion study",
+      "Lean Six Sigma"
+    ],
+    "answer_index": 3,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  },
+  {
+    "id": "W12Q03",
+    "week": 12,
+    "question": "The time taken to produce a unit item in method study is composed of:",
+    "options": [
+      "Basic work content + Ineffective time + Added work content",
+      "Ineffective time + Added work content",
+      "Added work content only",
+      "Basic work content only"
+    ],
+    "answer_index": 0,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  },
+  {
+    "id": "W12Q04",
+    "week": 12,
+    "question": "The purpose of method study in an organization is to:",
+    "options": [
+      "Measure ineffective time during production processes",
+      "Document all activities performed without making changes",
+      "Improve job methods by removing unnecessary work",
+      "Calculate wages and incentives for workers based on performance"
+    ],
+    "answer_index": 2,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  },
+  {
+    "id": "W12Q05",
+    "week": 12,
+    "question": "Match the chart type with the type of defects it monitors.",
+    "options": [
+      "(i)-(d), (ii)-(a), (iii)-(b), (iv)-(c)",
+      "(i)-(d), (ii)-(a), (iii)-(c), (iv)-(b)",
+      "(i)-(a), (ii)-(d), (iii)-(b), (iv)-(c)",
+      "(i)-(d), (ii)-(b), (iii)-(a), (iv)-(c)"
+    ],
+    "answer_index": 2,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  },
+  {
+    "id": "W12Q06",
+    "week": 12,
+    "question": "The control chart used to track the fraction of defective items in a sample is:",
+    "options": [
+      "The c chart",
+      "The u chart",
+      "The p chart",
+      "The np chart"
+    ],
+    "answer_index": 2,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  },
+  {
+    "id": "W12Q07",
+    "week": 12,
+    "question": "When sample size is small, the preferred measure of variability is:",
+    "options": [
+      "Median",
+      "Range",
+      "Standard deviation",
+      "Variance"
+    ],
+    "answer_index": 1,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  },
+  {
+    "id": "W12Q08",
+    "week": 12,
+    "question": "In Statistical Process Control, variable control charts are used when the quality characteristic is:",
+    "options": [
+      "Counted as defective or non-defective",
+      "Based on proportions only",
+      "Measurable like length or weight",
+      "Related only to the number of defects"
+    ],
+    "answer_index": 2,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  },
+  {
+    "id": "W12Q09",
+    "week": 12,
+    "question": "In Statistical Process Control, Attribute control charts are used when the quality characteristic is:",
+    "options": [
+      "A continuous numerical value",
+      "Measured in exact units like millimeters",
+      "Based on counts such as defects or defectives",
+      "Measured using precision instruments"
+    ],
+    "answer_index": 2,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  },
+  {
+    "id": "W12Q10",
+    "week": 12,
+    "question": "A process is considered in control on an X-bar chart when:",
+    "options": [
+      "All points lie within control limits and display a random, pattern-free distribution",
+      "Most points are outside the limits but show no trend",
+      "A few points exceed limits, but the pattern looks random",
+      "All points are within limits but follow a repeating cyclic pattern"
+    ],
+    "answer_index": 0,
+    "explanation": "Verified using standard IE/SPC concepts; replace with official key when published.",
+    "source": "Week12 screenshot",
+    "answer_source": "concept_verified_manual",
+    "answer_confidence": "medium"
+  }
+]
