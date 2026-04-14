@@ -19,7 +19,6 @@ const resultCard = document.getElementById("resultCard");
 const quizTitle = document.getElementById("quizTitle");
 const quizForm = document.getElementById("quizForm");
 const scoreText = document.getElementById("scoreText");
-const resultList = document.getElementById("resultList");
 
 function shuffleArray(arr) {
   const a = [...arr];
@@ -54,10 +53,10 @@ function renderQuiz() {
     const opts = q.displayOptions
       .map(
         (o, i) =>
-          `<label><input type="radio" name="q_${idx}" value="${i}" /> ${o}</label>`
+          `<label class="opt" data-q="${idx}" data-opt="${i}"><input type="radio" name="q_${idx}" value="${i}" /> <span class="opt-text">${o}</span></label>`
       )
       .join("");
-    div.innerHTML = `<p><strong>Q${idx + 1}.</strong> ${q.question}</p>${opts}`;
+    div.innerHTML = `<p><strong>Q${idx + 1}.</strong> ${q.question}</p>${opts}<p class="muted q-mark" id="mark_${idx}"></p>`;
     quizForm.appendChild(div);
   });
 }
@@ -73,34 +72,39 @@ function collectAnswers() {
 
 function showResults(answers) {
   let score = 0;
-  resultList.innerHTML = "";
-
   activeQuestions.forEach((q, idx) => {
     const selected = answers[idx];
     const correct = q.displayCorrect;
     if (selected === correct) score += 1;
 
-    const card = document.createElement("div");
-    card.className = "qcard";
-    let html = `<p><strong>Q${idx + 1}.</strong> ${q.question}</p>`;
+    q.displayOptions.forEach((_, i) => {
+      const optEl = document.querySelector(`label[data-q="${idx}"][data-opt="${i}"]`);
+      if (!optEl) return;
+      optEl.classList.remove("correct", "wrong");
+      const textEl = optEl.querySelector(".opt-text");
+      if (!textEl) return;
+      textEl.textContent = `${q.displayOptions[i]}`;
 
-    q.displayOptions.forEach((opt, i) => {
-      let cls = "opt";
-      let suffix = "";
       if (i === correct) {
-        cls += " correct";
-        suffix = " ✅ Correct";
+        optEl.classList.add("correct");
+        textEl.textContent = `${q.displayOptions[i]} ✅ Correct`;
       } else if (i === selected && selected !== correct) {
-        cls += " wrong";
-        suffix = " ❌ Your answer";
+        optEl.classList.add("wrong");
+        textEl.textContent = `${q.displayOptions[i]} ❌ Your answer`;
       }
-      html += `<div class="${cls}">${opt}${suffix}</div>`;
     });
 
-    html += `<p class="muted">Marks: ${selected === correct ? 1 : 0}/1</p>`;
-    card.innerHTML = html;
-    resultList.appendChild(card);
+    const markEl = document.getElementById(`mark_${idx}`);
+    if (markEl) {
+      markEl.textContent = `Marks: ${selected === correct ? 1 : 0}/1`;
+    }
   });
+
+  quizForm.querySelectorAll('input[type="radio"]').forEach((inp) => {
+    inp.disabled = true;
+  });
+  submitBtn.disabled = true;
+  submitBtn.textContent = "Submitted";
 
   scoreText.textContent = `Marks: ${score}/${activeQuestions.length} (1 for correct, 0 for wrong)`;
   resultCard.classList.remove("hidden");
@@ -124,6 +128,8 @@ function startTest() {
   setupCard.classList.add("hidden");
   resultCard.classList.add("hidden");
   quizCard.classList.remove("hidden");
+  submitBtn.disabled = false;
+  submitBtn.textContent = "Submit Test";
 }
 
 function resetAll() {
